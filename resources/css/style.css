@@ -9,7 +9,23 @@ h1 {
   color: white;
 }
 
-header a {
+a {
   font-size: 16px;
-  color: aquamarine
+  color: aquamarine;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+#camp img {
+  width: 70%;
+  margin-bottom: 20px;
 }
